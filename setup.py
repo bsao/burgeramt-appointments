@@ -23,7 +23,7 @@ setup(
     scripts=['bin/appointments'],
     python_requires='>=3.10',
     install_requires=[
-        'aiohttp==3.11.11',
+        'aiohttp==3.12.14',
         'beautifulsoup4==4.12.3',
         'chime==0.7.0',
         'pytz',
